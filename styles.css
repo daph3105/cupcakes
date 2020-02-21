@@ -26,3 +26,22 @@ color:#EF5306;
 .vanilla{
 color: #D68909;
 }
+.parallax1, .parallax2, .parallax3, .parallax4{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top:20%;
+    padding-bottom:20%;
+}
+.parallax1{
+    background-image: url("./images/chocolate-cupcakes.jpg");
+}
+.parallax2{
+    background-image: url("./images/strawberry-cupcake.jpg");
+}
+.parallax3{
+    background-image: url("./images/birthday-cupcakes1.jpg");
+}
+.parallax4{
+    background-image: url("./images/vanilla-cupcakes.jpg");
+}
